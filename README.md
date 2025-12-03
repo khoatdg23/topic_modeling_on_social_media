@@ -52,5 +52,4 @@ Note: Data collection relied on the Reddit API / Pushshift; raw dumps may not be
 - Camping & hiking activity rises during the pandemic and then falls post‑COVID, with surviving discussions skewing toward more specialized, gear-focused topics.
 - Sentiment around cruises becomes more neutral/negative during the pandemic but turns more positive post‑COVID, in line with reports of strong recovery in cruise demand.
 
-## Repository Structure
 
